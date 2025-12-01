@@ -11,9 +11,7 @@ __pycache__/
 # Ignore environment variables
 .env
 
-# Ignore model files unless needed
-*.pkl
-*.joblib
+
 
 # Ignore system/editor junk
 .vscode/
